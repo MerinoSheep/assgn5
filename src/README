@@ -1,0 +1,1 @@
+Call enforcing_integrability to run through each step of creating the depth map. This will create the initials and also also call uncalibrated_photometric_stereo.
